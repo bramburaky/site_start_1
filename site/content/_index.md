@@ -1,6 +1,6 @@
 ---
 title: Brambu
-subtitle: prova
+
 
 blurb:
   heading: Cosa è?

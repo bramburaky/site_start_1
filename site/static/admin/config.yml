@@ -24,8 +24,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
+          - label: "Home Page"
+            name: value
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
