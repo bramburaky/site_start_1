@@ -2,12 +2,6 @@
 title: Brambu
 
 
-blurb:
-  heading: Cosa è?
-  text: Provo a fare un sito
-intro:
-  heading: Vediamo come viene
-  text: ook
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
